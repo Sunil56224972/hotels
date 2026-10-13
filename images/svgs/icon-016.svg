@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                class="flex-shrink-0">
+                <g clip-path="url(#clip0_pers1)">
+                    <path
+                        d="M9.83517 10.7825C12.5358 10.7825 14.725 8.59222 14.725 5.89039C14.725 3.18856 12.5358 0.998291 9.83517 0.998291C7.13458 0.998291 4.94531 3.18856 4.94531 5.89039C4.94531 8.59222 7.13458 10.7825 9.83517 10.7825Z"
+                        stroke="currentColor" stroke-miterlimit="10" />
+                    <path
+                        d="M17.898 24V19.0437C17.898 16.0597 15.4801 13.6406 12.4974 13.6406H6.39669C3.41402 13.6406 0.996094 16.0597 0.996094 19.0437V24"
+                        stroke="currentColor" stroke-miterlimit="10" />
+                    <path
+                        d="M15.682 1.0542C18.0305 1.41187 19.8299 3.44087 19.8299 5.89034C19.8299 8.3785 17.9732 10.4328 15.5703 10.7422"
+                        stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M23.0024 24V19.0437C23.0024 16.5153 21.2664 14.3925 18.9219 13.8032" stroke="currentColor"
+                        stroke-miterlimit="10" />
+                </g>
+                <defs>
+                    <clipPath id="clip0_pers1">
+                        <rect width="24" height="24" fill="white" />
+                    </clipPath>
+                </defs>
+            </svg>

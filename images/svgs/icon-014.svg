@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                class="flex-shrink-0">
+                <g clip-path="url(#clip0_search)">
+                    <path
+                        d="M10.5 20C15.7467 20 20 15.7467 20 10.5C20 5.25329 15.7467 1 10.5 1C5.25329 1 1 5.25329 1 10.5C1 15.7467 5.25329 20 10.5 20Z"
+                        stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M23.2932 23.2929L17.3086 17.3083" stroke="currentColor" stroke-miterlimit="10" />
+                </g>
+                <defs>
+                    <clipPath id="clip0_search">
+                        <rect width="24" height="24" fill="white" />
+                    </clipPath>
+                </defs>
+            </svg>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                class="flex-shrink-0">
+                <g clip-path="url(#clip0_cal)">
+                    <path
+                        d="M20.9919 2.34106H3.00541C1.8957 2.34106 0.996094 3.24063 0.996094 4.35031V20.9933C0.996094 22.103 1.8957 23.0026 3.00541 23.0026H20.9919C22.1016 23.0026 23.0012 22.103 23.0012 20.9933V4.35031C23.0012 3.24063 22.1016 2.34106 20.9919 2.34106Z"
+                        stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M17.6875 0V4.92637" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M6.33594 0V4.92637" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M23.0012 6.87964H0.996094" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M9.90625 11.1853H12.9595" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M16.082 11.1721H19.1353" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M4.09766 14.781H7.15088" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M9.90625 14.7942H12.9595" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M16.082 14.781H19.1353" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M4.09766 18.4028H7.15088" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M9.90625 18.416H12.9595" stroke="currentColor" stroke-miterlimit="10" />
+                    <path d="M16.082 18.4028H19.1353" stroke="currentColor" stroke-miterlimit="10" />
+                </g>
+                <defs>
+                    <clipPath id="clip0_cal">
+                        <rect width="24" height="24" fill="white" />
+                    </clipPath>
+                </defs>
+            </svg>
